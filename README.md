@@ -2,7 +2,7 @@
 
 Welcome to the Power BI AI Workshop! This hands-on workshop will guide you through creating intelligent reports using Power BI's artificial intelligence capabilities. You'll explore the Contoso Sales sample dataset and learn to build various AI-powered visualizations.
 
-## 🎯 Workshop Objectives
+## Workshop Objectives
 
 By the end of this workshop, you will be able to:
 - Utilize Power BI's built-in AI visuals (Key Influencers, Decomposition Tree, Anomaly Detection)
@@ -10,14 +10,14 @@ By the end of this workshop, you will be able to:
 - Build interactive dashboards with AI-driven insights
 - Apply natural language queries to extract business insights
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Power BI Desktop (latest version)
 - Basic understanding of Power BI concepts
 - Access to Power BI Service (Fabric free license minimum)
 - No prior AI/ML knowledge required
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Step 1: Get the Artificial Intelligence Sample
 
@@ -33,7 +33,7 @@ By the end of this workshop, you will be able to:
 3. Select **A copy of your report and data (.pbix)**
 4. Save to your desired location and open in Power BI Desktop
 
-## 📊 Workshop Modules
+## Workshop Modules
 
 ### Module 1: Exploring Key Influencers
 **Duration: 30 minutes**
@@ -96,7 +96,7 @@ Detect unusual patterns and generate automatic explanations.
    - "close % by month in a line chart"
    - "close % by month in a line chart by manager"
 
-## 🤖 Advanced Exercises with Copilot
+## Advanced Exercises with Copilot
 
 ### Module 4: Creating New Pages with Copilot
 **Duration: 45 minutes**
@@ -234,7 +234,7 @@ Create sophisticated AI-powered visualizations.
 - "Add alerts for unusual patterns"
 - "Show year-over-year comparisons"
 
-## 🎨 Creative Challenges
+## Creative Challenges
 
 ### Challenge 1: Market Opportunity Analysis
 Create a page that identifies untapped market opportunities using AI insights.
@@ -245,7 +245,7 @@ Build a risk monitoring dashboard using anomaly detection and key influencers.
 ### Challenge 3: Competitive Analysis
 Design a competitive positioning analysis using decomposition trees and smart narratives.
 
-## 📚 Additional Resources
+## Additional Resources
 
 - [Power BI AI Visuals Documentation](https://learn.microsoft.com/en-us/power-bi/visuals/)
 - [Key Influencers Visual Guide](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers)
@@ -253,15 +253,15 @@ Design a competitive positioning analysis using decomposition trees and smart na
 - [Anomaly Detection in Power BI](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-anomaly-detection)
 - [Smart Narratives Guide](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-smart-narrative)
 
-## 🏆 Workshop Completion
+## Workshop Completion
 
 Congratulations! You've completed the Power BI AI Workshop. You should now have:
-- ✅ A comprehensive understanding of Power BI AI visuals
-- ✅ Hands-on experience with Copilot in Power BI Desktop
-- ✅ Multiple report pages showcasing different AI capabilities
-- ✅ Skills to apply AI insights to real business scenarios
+- A comprehensive understanding of Power BI AI visuals
+- Hands-on experience with Copilot in Power BI Desktop
+- Multiple report pages showcasing different AI capabilities
+- Skills to apply AI insights to real business scenarios
 
-## 💡 Next Steps
+## Next Steps
 
 1. Apply these techniques to your own datasets
 2. Explore advanced AI features in Power BI Premium
