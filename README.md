@@ -5,10 +5,11 @@ Welcome to the Power BI AI Workshop! This hands-on workshop will guide you throu
 ## Workshop Objectives
 
 By the end of this workshop, you will be able to:
-- Utilize Power BI's built-in AI visuals (Key Influencers, Decomposition Tree, Anomaly Detection)
+- Use and understand the value of Power BI's built-in AI visuals (Key Influencers, Decomposition Tree, Anomaly Detection)
 - Create intelligent reports using Copilot in Power BI Desktop
 - Build interactive dashboards with AI-driven insights
 - Apply natural language queries to extract business insights
+- Use CoPilot in Power BI Service to extract key business insights
 
 ## Prerequisites
 
@@ -36,7 +37,6 @@ By the end of this workshop, you will be able to:
 ## Workshop Modules
 
 ### Module 1: Exploring Key Influencers
-**Duration: 30 minutes**
 
 Learn to identify what factors most influence your business outcomes.
 
@@ -71,7 +71,6 @@ Discover the path to your highest value opportunities.
 3. Continue drilling down to find insights
 
 ### Module 3: Anomaly Detection and Smart Insights
-**Duration: 35 minutes**
 
 Detect unusual patterns and generate automatic explanations.
 
@@ -96,14 +95,57 @@ Detect unusual patterns and generate automatic explanations.
    - "close % by month in a line chart"
    - "close % by month in a line chart by manager"
 
+### Modeule 4: Visual calculation, verified answers, and smart narrative
+
+Get more and enhanced insights from your data.
+
+#### Exercise 4.1: Set up a verified answer
+1. Right click on the pie chart
+2. Select "Set up a verified answer"
+3. Use CoPilot suggestions or add the following to the verified answers:
+    a. What are the revenue goals for each sales owner?
+    b. Who are the sales owners with won opportunities?
+    c. What are the revenue goals for each sales manager?
+    d. Which sales owners have the highest revenue goals?
+4. Close the prep data for AI tab
+
+#### Exercise 4.3: Set up smart narrative
+1. Click on "CoPilot (preview)" on the narrative tile
+2. Click on the tile again to edit what you want CoPilot to summarize
+3. Validate the scope of your narrative
+4. Click update
+
+#### Exercise 4.4: Create a visual calculation
+1. Richt click on the table
+2. Click New visual calculation > Percent of grand  total
+3. Select Rev Goal1 as 'Field'
+4. Select Rows as 'Axis'
+5. Click the green check mark
+6. Click back to report to see your new column
+
+### Module 5: Create a python visual
+
+Use the following script to creaste a python visual. Make sure you have the following prerequisites before attempting to create:
+
+```
+
+```
+
+
 ## Advanced Exercises with Copilot
 
-### Module 4: Creating New Pages with Copilot
-**Duration: 45 minutes**
+### Module 6: Create DAX queries with CoPilot
+
+Leverage copilot to create DAX queries.
+
+1. Go to DAX in the left pane
+2. Use the following CoPilot prompt to discover new DAX measures: _"Suggest measures to calculate revenue forcasts from the Opportunities table and existing measures."_
+
+### Module 7: Creating New Pages with Copilot
 
 Use Copilot in Power BI Desktop to create additional analytical pages.
 
-#### Exercise 4.1: Customer Segmentation Analysis Page
+#### Exercise 7.1: Customer Segmentation Analysis Page
 **Goal**: Create a page analyzing customer segments and their revenue contribution.
 
 **Instructions**:
@@ -121,7 +163,7 @@ Use Copilot in Power BI Desktop to create additional analytical pages.
 - "Add a slicer for product category"
 - "Show customer lifetime value analysis"
 
-#### Exercise 4.2: Product Performance Dashboard
+#### Exercise 7.2: Product Performance Dashboard
 **Goal**: Build a comprehensive product analysis page.
 
 **Instructions**:
@@ -139,7 +181,7 @@ Use Copilot in Power BI Desktop to create additional analytical pages.
 - "Add filters for date range and territory"
 - "Show seasonal patterns in product sales"
 
-#### Exercise 4.3: Sales Rep Performance Page
+#### Exercise 7.3: Sales Rep Performance Page
 **Goal**: Analyze individual sales representative performance.
 
 **Instructions**:
@@ -157,12 +199,11 @@ Use Copilot in Power BI Desktop to create additional analytical pages.
 - "Add performance rankings"
 - "Show win rate by sales representative"
 
-### Module 5: Advanced AI Visuals
-**Duration: 40 minutes**
+### Module 8: Advanced AI Visuals
 
 Create sophisticated AI-powered visualizations.
 
-#### Exercise 5.1: Predictive Analytics Page
+#### Exercise 8.1: Predictive Analytics Page
 **Goal**: Build forecasting and predictive insights.
 
 **Instructions**:
@@ -190,7 +231,7 @@ Create sophisticated AI-powered visualizations.
 - "Show trend analysis for key metrics"
 - "Create a summary of performance insights"
 
-#### Exercise 5.2: Correlation and Pattern Analysis
+#### Exercise 8.2: Correlation and Pattern Analysis
 **Goal**: Discover hidden relationships in data.
 
 **Instructions**:
@@ -214,7 +255,7 @@ Create sophisticated AI-powered visualizations.
 - Group customers by behavior patterns
 - Identify distinct market segments
 
-#### Exercise 5.3: Executive Summary Page
+#### Exercise 8.3: Executive Summary Page
 **Goal**: Create a high-level executive dashboard.
 
 **Instructions**:
@@ -233,6 +274,27 @@ Create sophisticated AI-powered visualizations.
 - "Create trend summary for executives"
 - "Add alerts for unusual patterns"
 - "Show year-over-year comparisons"
+
+### Module 9: CoPilot for Business users
+
+Gain business insights from your data.
+
+1. Publish the report to your workspace. 
+2. Ensure CoPilot is enabled on your workspace.
+3. Go to Power BI service and open your newly published report
+4. Ask one of the CoPilot questions defined below in the CoPilot pane on the report
+
+**CoPilot Questions**
+1. What are the main drivers of revenue in my opportunities pipeline?
+2. How does opportunity win rate vary by sales owner, product, or campaign?
+3. Which products or campaigns are associated with the highest value opportunities?
+4. What is the average time to close an opportunity, and how does it differ by owner or product?
+5. Are there any patterns in lost opportunities—such as common reasons, products, or customer segments?
+6. How does customer satisfaction (CSAT) relate to agent performance or case topics?
+7. What is the distribution of opportunities across different industries or account sizes?
+8. How effective are our campaigns in generating high-quality opportunities?
+9. Which accounts or contacts are most engaged, and how does this impact opportunity outcomes?
+10. Are there any trends in SLA compliance or escalations for customer cases?
 
 ## Creative Challenges
 
