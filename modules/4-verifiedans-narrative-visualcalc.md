@@ -2,6 +2,8 @@
 
 Get more and enhanced insights from your data.
 
+![Verified answers](https://github.com/alipouw13/ai-powerbi/blob/main/images/verified-ans.png)
+
 ## Exercise 4.1: Set up a verified answer
 1. Right click on the pie chart
 2. Select "Set up a verified answer"

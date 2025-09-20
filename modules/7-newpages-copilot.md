@@ -16,7 +16,7 @@ Use Copilot in Power BI Desktop to create additional analytical pages.
    - Area chart showing customer purchasing patterns overtime
 4. On the area char, right click on part of it you wish to analyze, select analyze > explain increase/decrease and you should see an insights explanation on causes for the increase/decrease (see below)
 
-![alt text](images/insights-area-chart.png)
+![Area chart insights](https://github.com/alipouw13/ai-powerbi/blob/main/images/insights-area-chart.png)
 
 **Copilot Prompts to Try and add to page if desired**:
 - "Show me the top 10 customers by revenue"
