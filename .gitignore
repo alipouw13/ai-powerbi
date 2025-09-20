@@ -1,11 +1,5 @@
-# Ignore everything by default
-*
+# Ignore test folder
+test/
 
-# But don't ignore these files and directories:
-!README.md
-!*.pbix
-!pbix/
-!pbix/*.pbix
-
-# Don't ignore .gitignore itself
-!.gitignore
+# Ignore Python virtual environment
+.venv/
