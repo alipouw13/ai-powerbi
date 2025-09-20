@@ -5,6 +5,8 @@ Use Copilot in Power BI Desktop to create additional analytical pages.
 ## Exercise 7.1: Customer Segmentation Analysis Page
 **Goal**: Create a page analyzing customer segments and their revenue contribution.
 
+![Customer segmentation analysis dashboard](https://github.com/alipouw13/ai-powerbi/blob/main/images/customer-seg.png)
+
 **Instructions**:
 1. Create a new report page named "Customer Segmentation"
 2. Use Copilot prompt: *"Create a customer segmentation analysis showing revenue by customer type, geographic distribution, and purchasing patterns"*
@@ -26,6 +28,8 @@ Use Copilot in Power BI Desktop to create additional analytical pages.
 
 ## Exercise 7.2: Product Performance Dashboard
 **Goal**: Build a comprehensive product analysis page.
+
+![Product performance dashboard](https://github.com/alipouw13/ai-powerbi/blob/main/images/product-perf.png)
 
 **Instructions**:
 1. Create a new page named "Product Performance"
