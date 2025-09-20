@@ -6,8 +6,8 @@ Detect unusual patterns and generate automatic explanations.
 1. Navigate to the **Anomaly Detection** page
 2. Filter by **Low, Spencer** in the Software category
 3. Review the dynamic text summary
-4. Right-click December 2020 data point
-5. Select **Analyze** > **Explain the decrease**
+
+![Smart Insights](https://github.com/alipouw13/ai-powerbi/blob/main/images/smart-insights-1.png)
 
 ## Exercise 3.2: 90-Day Revenue Trends
 1. Click **Last 90 days** filter
