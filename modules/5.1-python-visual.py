@@ -6,7 +6,7 @@
 # - Probability (from Opportunities table) 
 # - Status (from Opportunities table) [Optional but recommended]
 #   - transforms your scatter plot from a data display into a strategic BI tool that 
-#     reveals sales performance patterns, pipeline health, and opportunity conversion insights!
+#     reveals sales performance patterns, pipeline health, and opportunity conversion insights
 
 import matplotlib.pyplot as plt
 import pandas as pd
