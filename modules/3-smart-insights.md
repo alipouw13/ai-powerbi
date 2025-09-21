@@ -10,15 +10,30 @@ Detect unusual patterns and generate automatic explanations.
 ![Smart Insights](https://github.com/alipouw13/ai-powerbi/blob/main/images/smart-insights-1.png)
 
 ## Exercise 3.2: 90-Day Revenue Trends
-1. Click **Last 90 days** filter
-2. Review updated Revenue Summary
-3. Click the April 25th anomaly indicator
-4. Analyze possible explanations and strength scores
+1. Add a slicer for date hierarchy to the page - make it a dropdown slicer with Year, Quarter, Month
+1. Select Q1 and Q2 2021
+2. Review updated Revenue Summaries
+3. Ricght click on the "Revenue won by date and region" where there is a spike in revnue > Analyze, Explain increase
+4. Analyze possible explanations
+
+![Anomalies](https://github.com/alipouw13/ai-powerbi/blob/main/images/anomalies.png)
 
 ## Exercise 3.3: Natural Language Queries
 1. Use the **Ask a question** feature
 2. Try these queries:
    - "close %"
+   - "close percent"
+
+3. Notice the difference. Now click "add synonyms now" or go to Modeling > Q&A setup > Synonyms. Find the opportunities table and add "cloce percent" to the close % column and exit out.
+
+![Synonyms Q&A](https://github.com/alipouw13/ai-powerbi/blob/main/images/synonyms-qna.png)
+
+4. Now try the following queries again and notice they should give the same output:
+   - "close %"
+   - "close percent"
+5. Proceed with the following queries and feel free to add all or some of the visuals displayed:
    - "close % by month"
    - "close % by month in a line chart"
    - "close % by month in a line chart by manager"
+
+![Q&A](https://github.com/alipouw13/ai-powerbi/blob/main/imagesclose-pct.png)
