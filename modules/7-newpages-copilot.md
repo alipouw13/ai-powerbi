@@ -16,7 +16,7 @@ Use Copilot in Power BI Desktop to create additional analytical pages.
    - Stacked bar chart showing customer distribution by industry
    - KPI cards for key metrics
    - Area chart showing customer purchasing patterns overtime
-4. On the area char, right click on part of it you wish to analyze, select analyze > explain increase/decrease and you should see an insights explanation on causes for the increase/decrease (see below)
+4. On the area chart, right click on part of it you wish to analyze, select analyze > explain increase/decrease and you should see an insights explanation on causes for the increase/decrease (see below)
 
 ![Area chart insights](https://github.com/alipouw13/ai-powerbi/blob/main/images/insights-area-chart.png)
 
