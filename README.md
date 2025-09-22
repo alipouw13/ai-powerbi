@@ -15,29 +15,24 @@ By the end of this workshop, you will be able to:
 
 - Power BI Desktop (latest version)
 - Basic understanding of Power BI concepts
-- Access to Power BI Service (Fabric free license minimum)
-- No prior AI/ML knowledge required
+- Access to Power BI Service (Premium license or Fabric license)
+- CoPilot enabled in Power BI Service Admin portal
+- [Install Python](https://www.python.org/) on your local machine.
+- [Enable Python scripting](https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-python-scripts#enable-python-scripting) in Power BI Desktop
+- Install the right [packages](https://learn.microsoft.com/en-us/power-bi/connect-data/service-python-packages-support) for the script below:
+   - pandas
+   - matplotlib
+   - numpy
+   - seaborn (optional, for advanced visualizations)
 
 ## Getting Started
 
-### Step 1: Get the Artificial Intelligence Sample
+1. Open the pbix folder of this repo
+2. Download the `AI_WS09262025`
+3. Open `AI_WS09262025` in Power BI Desktop
+4. Go to the `modules` folder in this repository and start learning
 
-1. Open the Power BI service (`app.powerbi.com`)
-2. Select **Learn** in the navigation pane
-3. Under **Sample reports**, find and select **Artificial Intelligence Sample**
-4. Power BI saves the report and dataset to your **My workspace**
-
-### Step 2: Download the Sample for Desktop Work
-
-1. Open the report in Power BI service
-2. Go to **File** > **Download this file**
-3. Select **A copy of your report and data (.pbix)**
-4. Save to your desired location and open in Power BI Desktop
-
-### Step 3: Start going the modules
-- Go to the `modules` folder in this repository and start learning!
-
-## Workshop Modules
+## Workshop AI Visuals Modules
 
 1. **Key Influencers** - Learn to identify what factors most influence your business outcomes
 2. **Decomposition Tree** - Discover the path to your highest value opportunities through root cause analysis
