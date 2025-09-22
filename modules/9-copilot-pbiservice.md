@@ -13,7 +13,7 @@ Gain business insights from your data.
 3. Which products or campaigns are associated with the highest value opportunities?
 4. What is the average time to close an opportunity, and how does it differ by owner or product?
 5. Are there any patterns in lost opportunities—such as common reasons, products, or customer segments?
-6. How does customer satisfaction (CSAT) relate to agent performance or case topics?
+6. How does customer satisfaction (CSAT) relate to manager performance or case count?
 7. What is the distribution of opportunities across different industries or account sizes?
 8. How effective are our campaigns in generating high-quality opportunities?
 9. Which accounts or contacts are most engaged, and how does this impact opportunity outcomes?

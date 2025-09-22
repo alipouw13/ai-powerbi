@@ -13,8 +13,14 @@ Detect unusual patterns and generate automatic explanations.
 1. Add a slicer for date hierarchy to the page - make it a dropdown slicer with Year, Quarter, Month
 1. Select Q1 and Q2 2021
 2. Review updated Revenue Summaries
-3. Ricght click on the "Revenue won by date and region" where there is a spike in revnue > Analyze, Explain increase
+3. Right click on the "Revenue won by date and region" where there is a spike in revnue > Analyze, Explain increase
 4. Analyze possible explanations
+
+![Analyze](https://github.com/alipouw13/ai-powerbi/blob/main/images/analyze.png)
+
+5. Remove the Region field from the line chart
+6. Go to insights tab and turn on "Anomalies"
+7. Make sure sensitivity is set to 70% - add field to the 'Explain by" section to restrict analysis to specific fields
 
 ![Anomalies](https://github.com/alipouw13/ai-powerbi/blob/main/images/anomalies.png)
 

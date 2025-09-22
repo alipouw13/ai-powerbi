@@ -52,20 +52,22 @@ Create sophisticated AI-powered visualizations.
 2. Build these analytical visuals:
 
 **A. Correlation Matrix**
-- Create scatter plots showing: 
-    - Revenue Won and Discount % by Product Category
-    - Revenue Won and Discount % by Campaign Name
-    - Revenue Won and Close % by Campaign Name
-    - Revenue Won and Close % by Product Category
+- Create scatter plots, using CoPilot or manually. Get CoPilot to suggest scatterplots on specific analysis fields showing: 
+    - Revenue Won by Industry
+    - Numbver of employees by annual revenue
 
 
 **B. Outlier Detection**
-- Identify outliers in the scatterplot data
+- Identify outliers in the scatterplot data - ask Copilot or add a smart narrative.
+
+![Create clusters](https://github.com/alipouw13/ai-powerbi/blob/main/images/create-clusters.png)
 
 **C. Clustering Analysis**
 - Create scatter plots with clustering
 - Group customers by behavior patterns
 - Identify market opportunities
+
+![Clusters](https://github.com/alipouw13/ai-powerbi/blob/main/images/clusters.png)
 
 ## Exercise 8.3: Executive Summary Page
 **Goal**: Create a high-level executive dashboard.
