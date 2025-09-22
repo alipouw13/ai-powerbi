@@ -37,3 +37,5 @@ pip install pandas matplotlib numpy seaborn
 
 2. Paste the Python Code from `5.1-python-visual.py`
 3. Click the play button to run the script
+
+![Python](https://github.com/alipouw13/ai-powerbi/blob/main/images/python-visual.png)
