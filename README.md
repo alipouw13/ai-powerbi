@@ -27,10 +27,11 @@ By the end of this workshop, you will be able to:
 
 ## Getting Started
 
-1. Open the pbix folder of this repo
+1. Open the [pbix folder](https://github.com/alipouw13/ai-powerbi/tree/main/pbix) of this repo
 2. Download the `AI_WS09262025`
 3. Open `AI_WS09262025` in Power BI Desktop
-4. Go to the `modules` folder in this repository and start learning
+4. Go to the [ai-visuals-modules](https://github.com/alipouw13/ai-powerbi/tree/main/ai-visuals-modules) folder in this repository and start learning
+5. Refer to the `AI_WS09262025_FinalCopy` as a guide when you're going through the modules
 
 ## Workshop AI Visuals Modules
 
