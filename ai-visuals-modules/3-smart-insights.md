@@ -42,4 +42,4 @@ Detect unusual patterns and generate automatic explanations.
    - "close % by month in a line chart"
    - "close % by month in a line chart by manager"
 
-![Q&A](https://github.com/alipouw13/ai-powerbi/blob/main/imagesclose-pct.png)
+![Q&A](https://github.com/alipouw13/ai-powerbi/blob/main/images/close-pct.png)
